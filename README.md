@@ -1,5 +1,6 @@
 # INF2001-P3-T4
 Software Engineering Project for INF2001. P3 Team 04 AY2023/2024. Please read the Project Wiki for more details.
+Our project centers around our client, a Ferry Company, and the development of an innovative web-based solution to address the intricate task of managing employee workloads effectively for our client. The ferry industry operates within dynamic schedules, where crew allocation plays a crucial role in maintaining a seamless operation while maximising profitability.
 
 ## Team Members:
 | **ROLES** | **NAME** |
